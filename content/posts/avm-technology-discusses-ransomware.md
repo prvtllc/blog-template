@@ -18,6 +18,8 @@ description: "Internet and cyber security attorney Domingo Rivera discusses rans
 - [Loss of humanity through transitions](#loss-of-humanity-through-transitions)
 - [Chasing perfection](#chasing-perfection)
 
+<iframe width="640" height="360" src="https://www.youtube.com/embed/RtcyOigKQYg" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 Internet and cyber security attorney Domingo Rivera discusses ransomware on NBC.  Ransonware hijacks a user's computer systems and demands payment in order to "unlock" the system. Additional information about ransomware as well as how to eliminate it can be found on [AVM Technology's blog.](https://infosecusa.com/avm-technology-discusses-ransomware-nbc-12)
 
 The typography of this industrial age was no longer handcrafted. Mass production and profit became more important. Quantity mattered more than the quality. The books and printed works in general lost a part of its humanity. The typefaces were not produced by craftsmen anymore. It was the machines printing and tying the books together now. The craftsmen had to let go of their craft and became a cog in the process. An extension of the industrial machine.
