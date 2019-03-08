@@ -18,12 +18,8 @@ Our Internet Law practice has unique technical qualifications and capabilities, 
 
 ![Some of our technology certifications, we are experts at technology, law and assist attorneys and law firms in cyber investigations and forensics throughout the United States](/media/RiveraCerts.jpg)
 
-<figure class="float-right" style="width: 240px">
-	<img src="/media/RiveraCerts.jpg" alt="AVM Technology">
-	<figcaption>JSome of our technology certifications, we are experts at technology, law and assist attorneys and law firms in cyber investigations and forensics throughout the United States</figcaption>
-</figure>
-
 Some recent highlights of our Internet Law Practice:
+
 	1. The first law firm in the United States to win a jury trial involving allegations of Internet copyright infringement (piracy) against the U.S. Department of Justice.  They spent several years preparing their prosecution... we had a few months! - This case was initially heard in the United States District Court for the Eastern District of Virginia but the jury trial occurred in the United States District Court for the Southern District of Texas
 
 	2. Obtained an Internet defamation judgment involving defamatory Internet posts against a New York plastic surgeon.  We also obtained Injunctive relief prohibiting the individual from further postings regarding our client.  This case was heard in New York.
