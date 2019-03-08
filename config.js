@@ -2,9 +2,9 @@
 
 module.exports = {
   url: 'https://cybertrialattorney.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
-  copyright: '© All rights reserved.',
+  title: 'Cyber Trial Attorney Domingo J Rivera',
+  subtitle: 'Technology consulting, Internet defamation, cyber security and forensics.',
+  copyright: '© 2012-2019. All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
   googleAnalyticsId: 'UA-73379983-2',
@@ -23,16 +23,14 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Domingo Rivera',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Internet law expert and cybersecurity / digital forensics consultant.',
     contacts: {
-      email: '#',
-      telegram: '#',
-      twitter: '#',
+      email: 'djr@4n6va.com',
+      twitter: 'domingojrivera',
       github: '#',
       rss: '#',
-      vkontakte: '#'
     }
   }
 };
