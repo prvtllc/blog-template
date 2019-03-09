@@ -78,7 +78,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="mailto:#"
+            href="mailto:djr@4n6va.com"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -97,7 +97,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="https://www.twitter.com/#"
+            href="https://www.twitter.com/domingojrivera"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -116,7 +116,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="https://vk.com/#"
+            href="https://facebook.com/avmtech"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -135,7 +135,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="https://github.com/#"
+            href="https://cyberinternetlawyer.com/"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -154,7 +154,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="#"
+            href="http://www.infosecusa.com"
             rel="noopener noreferrer"
             target="_blank"
           >
@@ -173,7 +173,7 @@ exports[`Sidebar renders correctly 1`] = `
         >
           <a
             className="contacts__list-item-link"
-            href="telegram:#"
+            href="https://www.linkedin.com/in/domingo-rivera-28848526/"
             rel="noopener noreferrer"
             target="_blank"
           >
