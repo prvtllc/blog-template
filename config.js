@@ -2,8 +2,8 @@
 
 module.exports = {
   url: 'https://cybertrialattorney.netlify.com',
-  title: 'Blog by John Doe',
-  subtitle: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+  title: 'Cyber Trial Attorney Domingo J Rivera',
+  subtitle: 'Technology consulting, Internet defamation, cyber security and forensics.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
   postsPerPage: 4,
@@ -25,7 +25,7 @@ module.exports = {
   author: {
     name: 'John Doe',
     photo: '/photo.jpg',
-    bio: 'Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.',
+    bio: 'Internet law expert and cybersecurity / digital forensics consultant.',
     contacts: {
       email: '#',
       telegram: '#',
