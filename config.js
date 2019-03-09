@@ -23,7 +23,7 @@ module.exports = {
     }
   ],
   author: {
-    name: 'John Doe',
+    name: 'Domingo J Rivera',
     photo: '/photo.jpg',
     bio: 'Internet law expert and cybersecurity / digital forensics consultant.',
     contacts: {
