@@ -9,7 +9,7 @@ tags:
   - "Internet Law"
   - "Domingo Rivera"
   - "Cyberlaw"
-description: "Our Internet Law practice has unique technical qualifications and capabilities, look at our cyber security and computer security certifications and compare them to other Internet or cyber law firms."
+description: "Our Internet Law practice has unique technical qualifications and capabilities, look at our cyber security and computer security certifications and compare them to other Internet or cyber law firms. We Obtained Summary Judgment in favor of our client in a case involving computer trespass, including the Computer Fraud and Abuse Act and the Stored Communications Act - This case was heard in the United States District Court for the Western District of Arkansas."
 ---
 
 A leading National Internet Law Firm that has paved the way in the development of Internet law with leading case decisions.
@@ -30,4 +30,4 @@ Some recent highlights of our Internet Law Practice:
 
 5. Obtained Summary Judgment and Injunctive relief in an Internet defamation, invasion of privacy, and Trademark Infringement case.  The case was heard in the United States District Court for the Middle District of Florida.
 	
-6. We are frequently consulted by the media for our expertise in Cyber Law and Cyber Security.With his invention of the printing press, Gutenberg was the first European to use movable type printing, in around 1439. Among his many contributions to printing are: the invention of a process for mass-producing movable type; the use of oil-based ink; and the use of a wooden printing press similar to the agricultural screw presses of the period. His truly epochal invention was the combination of these elements into a practical system that allowed the mass production of printed books and was economically viable for printers and readers alike. Gutenberg's method for making type is traditionally considered to have included a type metal alloy and a hand mould for casting type. The alloy was a mixture of lead, tin, and antimony that melted at a relatively low temperature for faster and more economical casting, cast well, and created a durable type.
+6. We are frequently consulted by the media for our expertise in Cyber Law and Cyber Security.

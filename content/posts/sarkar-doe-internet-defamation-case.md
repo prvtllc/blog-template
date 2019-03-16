@@ -9,7 +9,7 @@ tags:
   - "Internet Defamation"
   - "Anonymous Online Defamation"
   - "Domingo Rivera"
-description: "Defamation lawsuit by a professor of pathology involving Internet defamation, which he claims cost him his employment at the University of Mississippi."
+description: "Defamation lawsuit by a professor of pathology involving Internet defamation, which he claims cost him his employment at the University of Mississippi. The Plaintiff, after losing his employment due to the commentary of the online individuals, understadably sought to discover the identity of his accusers.  The ACLU, not surprisingly, got involved to protect the anonymous commenters.  The claim was that the First Amendment protected the anonymity of the online posters reagarding Sarkar."
 ---
 
 **Are the identities of anonymous scientists who comment on other scientists' research online protected by the First Amendment?** This is the manner in which the Court of Appeals of Michigan phrased the issue.  The case arose when a professor with an impressive record of achivemen in his field was terminated from his employment with the University of Mississippi.  The reason? Online postings made anonymously in an online forum.
