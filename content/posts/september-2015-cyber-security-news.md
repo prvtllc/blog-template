@@ -10,7 +10,7 @@ tags:
   - "Domingo Rivera"
   - "Internet Law"
 
-description: "A Northern Ireland man has been sentenced to four years for running a piracy streaming website called FastPassTV, as well as related sites that linked to pirated content. A number of large UK corporations and institutions, such as Lloyds Bank and BAE systems, have reported a "marked increase" in Distributed Denial of Service DDoS attacks from the Bitcoin extortionist group DD4BC, which has been operational since last year."
+description: "A Northern Ireland man has been sentenced to four years for running a piracy streaming website called FastPassTV, as well as related sites that linked to pirated content. A number of large UK corporations and institutions, such as Lloyds Bank and BAE systems, have reported a marked increase in Distributed Denial of Service DDoS attacks from the Bitcoin extortionist group DD4BC, which has been operational since last year."
 ---
 
 This post contains some exceprts of this website before it's migration from Blogger in 2019.  Some of these posts were short and a bit old but still representative of the type of cases that we frequently see.  
