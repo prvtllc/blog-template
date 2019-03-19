@@ -6,7 +6,7 @@ module.exports = {
   subtitle: 'Technology consulting, Internet defamation, cyber security and forensics.',
   copyright: '© All rights reserved.',
   disqusShortname: '',
-  postsPerPage: 4,
+  postsPerPage: 5,
   googleAnalyticsId: 'UA-73379983-2',
   menu: [
     {
