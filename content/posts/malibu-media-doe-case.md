@@ -5,6 +5,7 @@ template: "post"
 draft: false
 slug: "/posts/malibu-media-doe-case"
 category: "Copyright Law"
+featuredImage: "/media/Malibu.jpeg"
 tags:
   - "Copyright Law"
   - "John Doe Subpoena"
